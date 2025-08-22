@@ -62,7 +62,7 @@ const CompellingContentModal: React.FC<ModalProps> = ({ isOpen, onClose }) => {
           {/* Right Column: Diagram */}
           <div className="flex items-center justify-center bg-gray-50 rounded-lg p-4 lg:p-6 border border-gray-200">
             <img 
-              src="https://storage.googleapis.com/generative-ai-projen-testing/user-images/image_77f36980-3632-4a0f-b489-4091a1829f03.png" 
+              src="https://github.com/Xepa333/eMailMKTG/blob/main/img/Patterns.png" 
               alt="Diagram showing Z-shaped scanning pattern for web content" 
               className="w-full h-auto object-contain rounded-md shadow-sm"
             />
